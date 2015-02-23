@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>1</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>1</endIndex>
+	<item sdImg="http://williamsportsda.com/roku/archaeology/aawb1-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb1-hd.png">
+		<title>Amazing Discoveries In The Lost Cities of the Dead</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB1-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+		<item sdImg="http://williamsportsda.com/roku/archaeology/aawb2-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb2-hd.png">
+		<title>The Tale of the Trowel</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB2-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb3-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb3-hd.png">
+		<title>Mysterious Messages of the Ancient</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB3-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb4-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb4-hd.png">
+		<title>When Irag Ruled the World</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB4-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb5-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb5-hd.png">
+		<title>Messiahs or Men?</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB5-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb6-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb6-hd.png">
+		<title>Human History Frozen in Fire</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB6-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb7-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb7-hd.png">
+		<title>Secrets Only A Mummy Could Tell</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB7-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb8-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb8-hd.png">
+		<title>The Truth About the Shroud of Turin</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB8-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb9-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb9-hd.png">
+		<title>The Curse of the Cross</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB9-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb10-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb10-hd.png">
+		<title>Passing History's Ultimate Test</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB10-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb11-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb11-hd.png">
+		<title>The Secret of The Lost Ark</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB11-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+		<item sdImg="http://williamsportsda.com/roku/archaeology/aawb12-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb12-hd.png">
+		<title>The Journey King Tut Missed</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB12-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb13-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb13-hd.png">
+		<title>The Feather-Lite Heart</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB13-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb14-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb14-hd.png">
+		<title>Jerusalem: City of Peace?</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB14-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+		<item sdImg="http://williamsportsda.com/roku/archaeology/aawb15-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb15-hd.png">
+		<title>Digging Up the Sin Cities of Sodom and Gomorrah</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB15-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb16-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb16-hd.png">
+		<title>Hidden Secrets of the Mountain of God</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB16-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+				<item sdImg="http://williamsportsda.com/roku/archaeology/aawb17-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb17-hd.png">
+		<title>The Forgotten History of Sabbath and Sunday</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB17-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawb18-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb18-hd.png">
+		<title>The Second Battle Over Jericho</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB18-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+					<item sdImg="http://williamsportsda.com/roku/archaeology/aawb19-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawb19-hd.png">
+		<title>Masada: Tragedy and Triumph!</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWB19-web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+		<item sdImg="http://williamsportsda.com/roku/archaeology/aawbSpring1-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawbSpring1-hd.png">
+		<title>In Search of the Real Cleopatra</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWBSpring1web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+		<item sdImg="http://williamsportsda.com/roku/archaeology/aawbSpring2-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawbSpring2-hd.png">
+		<title>Amazing Discoveries In The Lost Cities of the Dead</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWBSpring2web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+			<item sdImg="http://williamsportsda.com/roku/archaeology/aawbSpring3-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawbSpring3-hd.png">
+		<title>Decision at the Jordan: Getting Your Feet Wet!</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWBSpring3web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+		<item sdImg="http://williamsportsda.com/roku/archaeology/aawbSpring4-sd.png" hdImg="http://williamsportsda.com/roku/archaeology/aawbSpring4-hd.png">
+		<title>Mayan Apocalypse: Will the World Really Come to an End?</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://williamsportsda.com/resources/AAWB/AAWBSpring4web.mp4</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime></runtime>
+	</item>	
+</feed>

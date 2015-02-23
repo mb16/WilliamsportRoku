@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+
+	  <!-- banner_ad: optional element which displays an at the top level category screen -->
+	  <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
+	  
+	<category title="Williamsport Sermons" description="By Pastors Franke and Kandace Zollman" sd_img="http://www.williamsportsda.com/roku/art/sermons.png" hd_img="http://www.williamsportsda.com/roku/art/sermons.png">
+		<categoryLeaf title="Sermons" description="" feed="http://www.williamsportsda.com/roku/xml/sermons.xml"/>
+	</category>
+	<category title="Archaeology, The Ancient World, and The Bible" description="By Dr. Franke Zollman" sd_img="http://www.williamsportsda.com/roku/art/archaeology.png" hd_img="http://www.williamsportsda.com/roku/art/archaeology.png">
+		<categoryLeaf title="Archaeology Lectures" description="" feed="http://www.williamsportsda.com/roku/xml/archaeology.xml"/>
+	</category>
+ </categories>

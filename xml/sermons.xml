@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>1</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>1</endIndex>
+	<item sdImg="" hdImg="">
+		<title>Revival and Reformation . . . REALLY?</title>
+		<contentId>10051</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>850</streamBitrate>
+			<streamUrl>http://www.williamsportsda.com/vodcast/media/2015-01-17_sermon.m4v</streamUrl>
+		</media>
+		<synopsis>Franke Zollman</synopsis>
+		<genres>Religion</genres>
+		<runtime>1172</runtime>
+	</item>	
+	
+</feed>
