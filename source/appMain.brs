@@ -54,6 +54,15 @@ Sub initTheme()
     app = CreateObject("roAppManager")
     theme = CreateObject("roAssociativeArray")
 
+    theme.BackgroundColor = "#4F8FBB"
+    
+    theme.ListItemText = "#693779"
+    theme.PosterScreenLine1Text = "#ffffff"
+    theme.PosterScreenLine2Text = "#693779"
+    theme.SpringboardActorColor = "#0A64A4"
+    theme.SpringboardSynopsisColor = "#ffffff"
+    theme.SpringboardTitleText = "#ffffff"
+
     theme.OverhangOffsetSD_X = "72"
     theme.OverhangOffsetSD_Y = "31"
     theme.OverhangSliceSD = "pkg:/images/Overhang_Background_SD.png"

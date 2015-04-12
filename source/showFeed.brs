@@ -160,7 +160,7 @@ Function parse_show_feed(xml As Object, feed As Object) As Void
         'Set Default screen values for items not in feed
         item.HDBranded = false
         item.IsHD = false
-        item.StarRating = "90"
+        item.StarRating = "100"
         item.ContentType = "episode" 
 
         'media may be at multiple bitrates, so parse an build arrays

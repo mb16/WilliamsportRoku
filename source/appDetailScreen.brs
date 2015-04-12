@@ -9,6 +9,9 @@ Function preShowDetailScreen(breadA=invalid, breadB=invalid) As Object
     screen = CreateObject("roSpringboardScreen")
     screen.SetDescriptionStyle("video") 
     screen.SetMessagePort(port)
+    
+    screen.SetStaticRatingEnabled(false)
+    
     if breadA<>invalid and breadB<>invalid then
         screen.SetBreadcrumbText(breadA, breadB)
     end if
